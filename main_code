@@ -1,0 +1,12 @@
+git init
+git add ...
+git commit -m "add ... file"
+git pull 
+gti log
+git checkout
+git merge
+git remote add origin <url>
+git push -u origin master
+//
+git rebase
+git cherry-pick
